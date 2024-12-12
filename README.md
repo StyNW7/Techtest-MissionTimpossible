@@ -99,7 +99,7 @@ Because, right now I'm not building the project, so you should run the project l
 
 ## Owner
 
-This Repository is created by:
+This Repository is created by (last modified Monday, 9 December 2024):
 - Stanley Nathanael Wijaya - LC128
 
 <code> Striving for Excellence ❤️‍🔥❤️‍🔥 </code>
