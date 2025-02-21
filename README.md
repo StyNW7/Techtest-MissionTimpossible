@@ -1,6 +1,8 @@
 # Technical Test LCAS 25-1: MissionTimpossible
 
 This repository contains Technical Test LCAS 25-1 BINUS University with the Project Title given "MissionTimpossible" 🔥🔥
+<br>
+<b>Overall Score 88.947</b>
 
 ## Table of Contents
 1. [Project Overview](https://github.com/StyNW7/Techtest-MissionTimpossible#Project-Overview)
